@@ -1,0 +1,5 @@
+.idea
+telegram-bot-go
+files-storage/*
+.DS_Store
+.env
